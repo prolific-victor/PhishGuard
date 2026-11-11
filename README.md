@@ -91,7 +91,7 @@ Open the local address printed by Vite in your terminal. This project configures
 To start the app later, open a terminal, change to the cloned project directory, and run:
 
 ```bash
-cd path/to/safesurf-ai
+cd path/to/PhishGuard
 npm run dev
 ```
 
