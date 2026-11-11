@@ -71,8 +71,8 @@ No API key, database, Supabase project, or environment file is needed to run thi
 ### Clone the repository
 
 ```bash
-git clone https://github.com/J4yd33n/safesurf-ai.git
-cd safesurf-ai
+git clone https://github.com/prolific-victor/PhishGuard.git
+cd PhishGuard
 ```
 
 If the repository has been renamed or transferred, replace the clone URL with its current GitHub URL. The commands below should be run from the cloned project directory (the directory containing `package.json`).
